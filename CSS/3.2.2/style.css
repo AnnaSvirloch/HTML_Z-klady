@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+font: arial
+}
+
+p{
+    color: blue;
+    font-size: 15px;
+}
+
+h1, h2{
+    color: blueviolet;
+    text-align: center;
+}
+
+div{
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.info{
+    color: green;
+}
+
+.warning{
+    color: red;
+    background-color: whitesmoke;
+    width: 200px;
+}
+
+p:last-child{
+    color: blueviolet;
+}
