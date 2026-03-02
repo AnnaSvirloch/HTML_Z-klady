@@ -1,0 +1,37 @@
+h2{
+    background: blueviolet;
+
+}
+
+div{
+
+    background: blueviolet;
+}
+p{
+    background: blueviolet;
+
+}
+
+ul{
+
+    background: blueviolet;
+}
+
+a,button, strong, span {
+    background: red;
+}
+.d1{
+    background-color: aliceblue;
+    border: 2px solid palevioletred;
+    width:50%
+}
+.d2{
+background-color: yellow;
+    border: 2px solid orangered;
+}
+.b1{
+    display: inline-block;
+    background-color: pink;
+    width: 180px;
+    height: 80px;
+}
