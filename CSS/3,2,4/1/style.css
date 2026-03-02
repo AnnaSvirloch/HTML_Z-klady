@@ -35,3 +35,14 @@ background-color: yellow;
     width: 180px;
     height: 80px;
 }
+
+.example{
+    width: 200px;
+    height: 200px;
+    background: green;
+    color: grey;
+    display: grid;
+    place-items: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
