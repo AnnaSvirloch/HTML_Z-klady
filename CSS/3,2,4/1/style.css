@@ -1,3 +1,12 @@
+html{
+
+    font-size: 22pt;
+}
+body{
+    font-family: "Lavishly Yours", cursive;
+}
+
+
 h2{
     background: blueviolet;
 
@@ -46,3 +55,53 @@ background-color: yellow;
     border: 2px solid black;
     border-radius: 20px;
 }
+.left{
+text-align: left;
+}
+.center{
+    text-align: center;
+    text-decoration: underline;
+}
+.right{
+    text-align: right;
+}
+.justify{
+    text-align: justify;
+    background-color: white;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+    color: black
+}
+
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1rem;
+}
+
+.centerbox {
+    display: grid;
+    width: 50%;
+    height: 500px;
+    margin: auto;
+    place-items: center
+}
+
+
+.centertext {
+    width: 50%;
+    height: 250px;
+    text-align: center;
+    align-content: center;
+    text-decoration-thickness: initial;
+}
+
