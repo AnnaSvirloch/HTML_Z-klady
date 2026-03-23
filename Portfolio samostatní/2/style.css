@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.profil {
+    background: white;
+    padding: 30px;
+    width: 300px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 10px;
+    place-items: center;
+}
+
+
+.profilovka {
+    width: 150px;
+    height: 150px;
+    background: lightskyblue;
+    border-radius: 50%;
+    color: beige;
+    font-size: 67px;
+    display: grid;
+    place-items: center;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 20px;
+    color: darkgrey;
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.kontakt {
+    text-decoration: none; 
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 20%;  
+}
+
+
